@@ -1,0 +1,289 @@
+body {
+    background-color: black;
+    margin: 0px;
+    padding: 0px;   
+}
+
+.banner {
+    width: 100%;
+    top: 669px;
+    left: 190px;
+    background-image: url(https://img.freepik.com/vetores-premium/ouro-abstrato-na-textura-metalica-preta-design-futurista-luxo-moderno-fundo_164305-142.jpg?w=740);
+    background-size: 1366px 509px;
+    
+}
+
+.banner-content {
+    padding: 15px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 268px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+    margin: 20px auto;    
+}
+
+.trilha {
+    padding-top: 10px;
+    width: 434px;
+    height: 47px;
+    font-family: OCR A Std, monospace;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 47px;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(215, 215, 215), rgb(164, 146, 33));
+    background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    margin: auto;
+}
+
+
+
+.botao {
+    margin-top: 15px;
+    width:234px;
+    height: Hug (57px);
+    top: 473px;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 18.78px;
+    letter-spacing: 21%;
+    text-align: center;
+    padding: 19px, 91px, 19px, 91px;
+    gap: 31px;
+    border: 2px solid rgb(19, 23, 25); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;   
+    position: relative;
+    top: 42%;
+    left: 41%;
+    font-family: Raleway;
+    background-image: linear-gradient(to bottom, rgb(3, 18, 25), rgb(164, 146, 33), rgb(164, 146, 33));
+
+     
+    
+}
+
+.img1 {
+    margin: auto;
+    display: block;
+    padding: 45px;
+}
+
+.parag {
+    padding-top: 8px;
+    padding-bottom: 20px;
+    width: 510px;
+    height: 46px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    color: whitesmoke;
+    line-height: 23px;
+    text-align: center;
+    margin: auto;   
+}
+
+
+
+#course-content {
+    margin: 100px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    line-height: 23px;
+
+}
+
+.secoes {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.module {
+    padding: 10px;
+    margin: 25px;
+    gap: 10px;
+    border: 1px solid rgba(164, 146, 33, 1);
+    background: rgba(37, 37, 37, 1);
+    border-radius: 57px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+.modules-list {
+    padding-left: 14em;
+    padding-right: 14em;
+}
+
+span {
+    color: rgba(164, 146, 33, 1);
+
+}
+
+h2 {
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(215, 215, 215), rgb(164, 146, 33));
+    background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#transform-world {
+    background-image: url(https://img.freepik.com/fotos-premium/advogado-assina-design-com-escalas-do-simbolo-de-justica-impresso-em-fundo-preto-e-caneta-tinteiro-ilustracao-3d_556904-526.jpg?w=900);
+    opacity: 60%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 363px;
+}
+
+.world {
+    width: 500px;  
+    height: 141px;
+    top: 111px;
+    left: 198px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 200px;
+    font-size: 35px;
+    font-weight: 900;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgb(215, 215, 215), rgb(164, 146, 33)
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 90px; 
+}
+
+.servicos, .sobre {
+    display: inline-flex;
+    color: aliceblue;
+    text-align: justify;
+}
+
+.imgBalanca {
+    opacity: 0.4;
+}
+
+.ns {
+    text-align: center;
+    margin: 50px;
+    font-size: 35px;
+    position: absolute;
+    border: solid 1px rgb(127, 115, 37);
+    padding: 100px;
+    top: 1408px;
+    right: 25px;
+}
+
+.sn {
+    text-align: center;
+    margin: 50px;
+    font-size: 35px;
+    position: absolute;
+    border: solid 1px rgb(127, 115, 37);
+    padding: 100px;
+    top: 2670px;
+    left: 25px;
+}
+
+
+.texto2 {
+    margin: 130px 25px 0 25px;
+}
+
+.areas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 18%;
+    padding: 20px;
+    margin: 17px;
+    float: left;
+    gap: 10px;
+    border: 1px solid rgba(164, 146, 33, 1);
+    background: rgba(37, 37, 37, 1);
+    border-radius: 57px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    text-align: center;
+    font-size: 14px;
+    max-height: 40vw;
+    overflow-y: auto;
+    margin-bottom: 80px;
+}
+
+.areas .module {
+    width: calc(33.33% - 20px);
+    margin: 10px;
+}
+
+.texto3 {
+    margin: 40px 25px 0 25px;
+}
+
+::-webkit-scrollbar {
+    width: 0.9px;
+    background: rgba(37, 37, 37, 1);
+}
+
+.instagram {
+    width: 100%;
+    margin: 80px 0 45px;
+    color: aliceblue;
+    letter-spacing: 0em;
+    text-align: center;
+    border-radius: 5px;
+    background-color:rgba(11, 10, 10, 0.1);
+}
+
+.informacoes {
+    display: flex;
+    justify-content: space-between;
+    width: 92%;
+    margin-top: 50px;
+    color: aliceblue;
+    gap: 100px;
+    background-color:rgba(11, 10, 10, 0.1);
+    padding: 50px;
+}
+
+a {
+    
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+.contato {
+    margin-left: 80px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+}
+
+hr {
+    float: left;
+    width: 50px;
+}
+
+h4 {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mapouter {
+    margin-top: 80px;
+    opacity: 0.6;
+    overflow: hidden;
+}
+
+
+
+
+
