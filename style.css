@@ -171,14 +171,19 @@ h2 {
     opacity: 0.4;
 }
 
+.a {
+    position: relative;
+
+}
+
 .ns {
     text-align: center;
     margin: 50px;
     font-size: 35px;
-    position: absolute;
     border: solid 1px rgb(127, 115, 37);
+    position: absolute;
+    top: 40px;
     padding: 100px;
-    top: 1450px;
     right: 25px;
 }
 
@@ -186,10 +191,10 @@ h2 {
     text-align: center;
     margin: 50px;
     font-size: 35px;
-    position: absolute;
     border: solid 1px rgb(127, 115, 37);
     padding: 100px;
-    top: 2710px;
+    position: absolute;
+    top: 65px;
     left: 25px;
 }
 
