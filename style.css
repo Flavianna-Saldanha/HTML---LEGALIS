@@ -192,9 +192,9 @@ h2 {
     margin: 50px;
     font-size: 35px;
     border: solid 1px rgb(127, 115, 37);
-    padding: 100px;
     position: absolute;
     top: 65px;
+    padding: 100px;
     left: 25px;
 }
 
